@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+.vscode-server/
+.vscode-server-insiders/
+
+# Logs & temp
+logs/
+*.log
+*.tmp
+
+# Datasets & big files
+datasets/
+data/
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Outputs / results
+outputs/
+results/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.npy
+
+# Jupyter secret
+.ipynb_checkpoints/
